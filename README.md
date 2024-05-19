@@ -1,4 +1,5 @@
 ![Header](https://github.com/adcurse22/adcurse22/blob/main/assets/firewatch0122161600jpg-0d7b87.jpg)
+<<<<<<< HEAD
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellowgreen
@@ -16,4 +17,10 @@
 
 About me 
 
+=======
+
+About me 
+
+Languages and Tools 
+>>>>>>> ca536ae86d83c34bc8acf84088654efc2a9be368
 
