@@ -10,17 +10,8 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=numpy&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2B%2B&logoColor=6296CC)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas&logoColor=pandas)
-
-
-
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=docker)
 
 
 About me 
-
-=======
-
-About me 
-
-Languages and Tools 
->>>>>>> ca536ae86d83c34bc8acf84088654efc2a9be368
-
