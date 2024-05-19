@@ -2,13 +2,15 @@
 
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellowgreen
-)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=yellowgreen)
 ![Django](https://img.shields.io/badge/-DRF-090909?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=006488)
 ![TensorFlow](https://img.shields.io/badge/-tensorflow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
 ![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=numpy&logoColor=blue)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3075f670a3f060c5355102209df3a2bab52b6604
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas&logoColor=pandas)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=docker)
