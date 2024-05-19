@@ -1,9 +1,6 @@
-![Header](https://github.com/adcurse22/adcurse22/blob/main/assets/загружено.jpg, height=160)
+![Header](https://github.com/adcurse22/adcurse22/blob/main/assets/firewatch0122161600jpg-0d7b87.jpg)
 
 About me 
 
-<<<<<<< HEAD
 Languages and Tools 
-=======
-Languages and Tools
 
