@@ -1,4 +1,4 @@
-![Header](https://github.com/adcurse22/adcurse22/blob/main/assets/загружено.jpg, height=160)
+![Header](https://github.com/adcurse22/adcurse22/blob/main/assets/загружено.jpg)
 
 About me 
 
