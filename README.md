@@ -17,6 +17,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/adcurse22)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCxWjonF2CiZzFGVTeZ0MMXg)
 [![Twitter](https://img.shields.io/badge/-X(Twitter)-090909?style=for-the-badge&logo=X&logoColor=Twitter)](https://x.com/ZitraksM)
+<<<<<<< HEAD
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adcurse22&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adcurse22&hide_progress=true&theme=radical)
+=======
+>>>>>>> bb4a5d5ca77f3ef01b5b1cb8c70a237358f0a360
