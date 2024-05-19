@@ -2,4 +2,8 @@
 
 About me 
 
+<<<<<<< HEAD
 Languages and Tools 
+=======
+Languages and Tools
+
