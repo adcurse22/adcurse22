@@ -21,4 +21,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adcurse22&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adcurse22&hide_progress=true&theme=radical)
+# LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/Adcurse22?theme=dark&font=Sarabun&ext=activity)
 
