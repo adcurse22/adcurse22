@@ -11,12 +11,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=docker)
 
-### Follow me 
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/orhan_al1ev/)
-[![LinkedIN](https://img.shields.io/badge/-LinkedIN-090909?style=for-the-badge&logo=Linkedin&logoColor=1C9DEB)](https://www.linkedin.com/in/orhan-aliev-a24060268/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/adcurse22)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCxWjonF2CiZzFGVTeZ0MMXg)
-[![Twitter](https://img.shields.io/badge/-X(Twitter)-090909?style=for-the-badge&logo=X&logoColor=Twitter)](https://x.com/ZitraksM)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adcurse22&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
